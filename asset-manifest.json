@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.10312e38.chunk.css",
+    "main.js": "/react-app/static/js/main.0dca3b82.chunk.js",
+    "main.js.map": "/react-app/static/js/main.0dca3b82.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.ec533adf.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.ec533adf.js.map",
+    "static/js/2.84ebaf5c.chunk.js": "/react-app/static/js/2.84ebaf5c.chunk.js",
+    "static/js/2.84ebaf5c.chunk.js.map": "/react-app/static/js/2.84ebaf5c.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.407885dc426ad4e4a7a6f74f86405e22.js": "/react-app/precache-manifest.407885dc426ad4e4a7a6f74f86405e22.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.10312e38.chunk.css.map": "/react-app/static/css/main.10312e38.chunk.css.map",
+    "static/js/2.84ebaf5c.chunk.js.LICENSE.txt": "/react-app/static/js/2.84ebaf5c.chunk.js.LICENSE.txt",
+    "static/media/cow.png": "/react-app/static/media/cow.b3787584.png",
+    "static/media/milk.png": "/react-app/static/media/milk.5abe215e.png",
+    "static/media/wheat.png": "/react-app/static/media/wheat.22f7e786.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec533adf.js",
+    "static/js/2.84ebaf5c.chunk.js",
+    "static/css/main.10312e38.chunk.css",
+    "static/js/main.0dca3b82.chunk.js"
+  ]
+}
